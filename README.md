@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm an assistant professor at The City College of New York, and director of the [CCNY VisnaLab](http://visnalab.ccny.cuny.edu).
+
 <!--
 **edvessel/edvessel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
